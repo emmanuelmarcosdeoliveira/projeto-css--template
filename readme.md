@@ -1,20 +1,22 @@
-## Shorthand properties 
+## Shorthand properties
 
 - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Shorthand_properties
 
-### Examples: 
+### Examples:
+
 - [Background](https://www.w3schools.com/css/css_background_shorthand.asp)
 
 - [Font](https://www.w3schools.com/css/css_font_shorthand.asp)
 
 ## Prefixes CSS
-- Android/iOS/Safari/Chrome: -webkit-*
 
-- Firefox: -moz-*
+- Android/iOS/Safari/Chrome: -webkit-\*
 
-- Internet Explorer: -ms-*
+- Firefox: -moz-\*
 
-- Opera: -o-*
+- Internet Explorer: -ms-\*
+
+- Opera: -o-\*
 
 ## Flexbox
 
@@ -25,11 +27,13 @@
 - https://www.w3schools.com/css/css3_flexbox.asp
 
 ## Pseudo-elements
+
 - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements
 
 - https://www.w3schools.com/css/css_pseudo_elements.asp
 
-### Examples: 
+### Examples:
+
 - before
 - after
 
@@ -39,13 +43,13 @@
 
 - https://www.w3schools.com/css/css_pseudo_classes.asp
 
-### Examples: 
+### Examples:
+
 - checked
 - houver
-
 
 # Transitions
 
 - https://www.w3schools.com/css/css3_transitions.asp
 
-- https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+##Teste
